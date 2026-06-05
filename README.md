@@ -17,3 +17,4 @@ Done.
 ## Skills
 
 - **aip-160-filtering**: Audit API filter designs against Google AIP-160. Use when reviewing List/Search endpoints, protobuf request messages, or TypeScript request types with a filter query.
+- **buf-protos**: Write, review, and evolve Protocol Buffer schemas using the Buf toolchain. Codifies naming, schema-evolution rules, design conventions, and the buf CLI workflow.
